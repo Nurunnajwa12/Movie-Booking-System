@@ -1,0 +1,6 @@
+        Movie                          Price
+1. KKN di Desa Penari                  RM 12.00
+2. Sonic The Hedgehog                  RM 12.00
+3. Mat Kilau: Kebangkitan Pahlawan     RM 12.00
+4. Boboiboy The Movie                  RM 12.00
+5. The Assistant                       RM 12.00

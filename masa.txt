@@ -1,0 +1,8 @@
+Time Slot [1] => 10:00 - 12:00
+Time Slot [2] => 12:15 - 14:15
+Time Slot [3] => 14:30 - 16:30
+Time Slot [4] => 16:45 - 18:45
+        - break -
+Time Slot [5] => 20:00 - 22:00
+Time Slot [6] => 22:15 - 00:15
+Time Slot [7] => 00:30 - 02:30

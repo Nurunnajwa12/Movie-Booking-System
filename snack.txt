@@ -1,0 +1,12 @@
+Menu                    Price
+1.Combo 1
+- Chicken Popcorn       RM 15.00
+- Pepsi
+
+2.Combo 2       
+- Popcorn               RM 15.00
+- Coca-cola
+
+3.Combo 3
+- Pizza                 RM 15.00
+- 100 plus
